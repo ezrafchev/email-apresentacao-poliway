@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>Poliway | Apresentação institucional</title>
+</head>
+<body style="margin:0; padding:0; background-color:#eef2f5; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent; line-height:1px; font-size:1px;">
+    Poliway | Soluções industriais para correias transportadoras.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse; background-color:#eef2f5;">
+    <tr>
+      <td align="center" style="padding:44px 12px 64px 12px;">
+        <table role="presentation" width="760" cellpadding="0" cellspacing="0" border="0" style="width:760px; max-width:760px; border-collapse:separate; border-spacing:0; background-color:#ffffff; border:1px solid #dfe5eb; border-radius:34px; overflow:hidden; box-shadow:0 22px 60px rgba(16,24,40,0.12); font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;">
+
+          <!-- HERO -->
+          <tr>
+            <td bgcolor="#0f1318" style="background-color:#0f1318;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                  <td height="1" style="height:1px; line-height:1px; font-size:0; background-color:#2b333d;">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding:64px 40px 54px 40px;">
+                    <img src="https://mail.zohousercontent.com/zm/ImageProxy?source=https%3A%2F%2Fpoliway.com.br%2Fwp-content%2Fuploads%2F2026%2F02%2Flogo_poliway-1-iso.png&amp;uid=897683033&amp;s=ee803e00730b5fcad7ca48422b95e632f981099e2ac52d8ea0684a9e8564eb08&amp;mode=mailview" width="282" alt="Poliway" style="display:block; width:282px; max-width:82%; height:auto; border:0; margin:0 auto 30px auto;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:0; margin:0 auto;">
+                      <tr>
+                        <td align="center" style="border:1px solid #3a4653; border-radius:999px; padding:10px 18px; font-size:12px; line-height:16px; letter-spacing:1.6px; text-transform:uppercase; color:#d8dee6; font-weight:700;">
+                          Apresentação institucional
+                        </td>
+                      </tr>
+                    </table>
+                    <div style="font-size:34px; line-height:42px; font-weight:750; letter-spacing:-0.7px; color:#ffffff; margin-top:28px; max-width:620px;">
+                      Soluções sob medida para operações industriais de alta exigência.
+                    </div>
+                    <div style="font-size:15px; line-height:25px; color:#b9c2cc; margin-top:16px; max-width:560px;">
+                      Equipamentos para correias transportadoras, desenvolvidos para produtividade, segurança operacional e continuidade de processo.
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- BODY -->
+          <tr>
+            <td style="padding:46px 50px 44px 50px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:separate; border-spacing:0; background-color:#ffffff;">
+                <tr>
+                  <td style="font-size:17px; line-height:31px; color:#25313d; font-weight:400;">
+                    <p style="margin:0 0 24px 0; font-size:22px; line-height:32px; color:#111827; font-weight:750; letter-spacing:-0.3px;">
+                      Prezado(a), boa tarde.
+                    </p>
+
+                    <p style="margin:0 0 18px 0;">
+                      Meu nome é <strong style="color:#111827;">Esdra</strong> e atuo na área <strong style="color:#111827;">Comercial</strong> da <strong style="color:#111827;">Poliway</strong>.
+                    </p>
+
+                    <p style="margin:0 0 18px 0;">
+                      A Poliway desenvolve e fornece equipamentos para <strong style="color:#111827;">correias transportadoras</strong>, com soluções personalizadas conforme a necessidade técnica e operacional de cada cliente.
+                    </p>
+
+                    <p style="margin:0 0 18px 0;">
+                      Atendemos empresas no Brasil e no exterior, incluindo operações dos segmentos de mineração, siderurgia, celulose, cimento e indústria pesada.
+                    </p>
+
+                    <p style="margin:0 0 30px 0;">
+                      Gostaria de verificar a possibilidade de agendarmos uma breve reunião, online ou presencial, para apresentar a Poliway, nossos equipamentos e possíveis oportunidades de atendimento à sua operação.
+                    </p>
+
+                    <!-- FEATURE CARDS -->
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:separate; border-spacing:0;">
+                      <tr>
+                        <td width="32%" valign="top" style="background-color:#f6f8fa; border:1px solid #e5eaf0; border-radius:22px; padding:22px 18px;">
+                          <div style="font-size:13px; line-height:18px; color:#6b7280; font-weight:700; letter-spacing:0.7px; text-transform:uppercase; margin-bottom:9px;">01</div>
+                          <div style="font-size:16px; line-height:22px; color:#111827; font-weight:750; margin-bottom:8px;">Projeto sob medida</div>
+                          <div style="font-size:13px; line-height:21px; color:#526170;">Soluções dimensionadas conforme aplicação, ambiente e necessidade do cliente.</div>
+                        </td>
+                        <td width="2%" style="font-size:0; line-height:0;">&nbsp;</td>
+                        <td width="32%" valign="top" style="background-color:#f6f8fa; border:1px solid #e5eaf0; border-radius:22px; padding:22px 18px;">
+                          <div style="font-size:13px; line-height:18px; color:#6b7280; font-weight:700; letter-spacing:0.7px; text-transform:uppercase; margin-bottom:9px;">02</div>
+                          <div style="font-size:16px; line-height:22px; color:#111827; font-weight:750; margin-bottom:8px;">Aplicação industrial</div>
+                          <div style="font-size:13px; line-height:21px; color:#526170;">Equipamentos voltados à confiabilidade, manutenção e operação contínua.</div>
+                        </td>
+                        <td width="2%" style="font-size:0; line-height:0;">&nbsp;</td>
+                        <td width="32%" valign="top" style="background-color:#f6f8fa; border:1px solid #e5eaf0; border-radius:22px; padding:22px 18px;">
+                          <div style="font-size:13px; line-height:18px; color:#6b7280; font-weight:700; letter-spacing:0.7px; text-transform:uppercase; margin-bottom:9px;">03</div>
+                          <div style="font-size:16px; line-height:22px; color:#111827; font-weight:750; margin-bottom:8px;">Atendimento técnico</div>
+                          <div style="font-size:13px; line-height:21px; color:#526170;">Apoio comercial e técnico para especificação, cotação e fornecimento.</div>
+                        </td>
+                      </tr>
+                    </table>
+
+                    <!-- CLIENT LOGO MARQUEE -->
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:separate; border-spacing:0; margin-top:30px;">
+                      <tr>
+                        <td bgcolor="#101318" style="background-color:#101318; border-radius:24px; padding:28px 30px 30px 30px;">
+                          <div style="font-size:12px; line-height:18px; color:#aeb8c3; font-weight:700; letter-spacing:1.2px; text-transform:uppercase; margin-bottom:16px;">Empresas atendidas</div>
+                          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:separate; border-spacing:0;">
+                            <tr>
+                              <td bgcolor="#f8fafc" style="background-color:#f8fafc; border:1px solid #dfe6ee; border-radius:22px; padding:8px; overflow:hidden;">
+                                <img src="COLE_AQUI_O_LINK_PUBLICO_DO_GIF_LOGOS" width="620" alt="Logos de empresas atendidas pela Poliway" style="display:block; width:100%; max-width:620px; height:auto; border:0; outline:none; text-decoration:none; border-radius:18px; margin:0 auto;">
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+
+                    <!-- CTA -->
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:0; margin-top:34px;">
+                      <tr>
+                        <td bgcolor="#111827" style="background-color:#111827; border-radius:999px;">
+                          <a href="mailto:esdra@poliway.com.br?subject=Agendamento%20de%20apresenta%C3%A7%C3%A3o%20institucional%20-%20Poliway" target="_blank" style="display:inline-block; padding:15px 26px; font-size:15px; line-height:20px; font-weight:750; color:#ffffff; text-decoration:none; border-radius:999px;">
+                            Agendar apresentação
+                          </a>
+                        </td>
+                        <td style="padding-left:18px; font-size:14px; line-height:22px; color:#64748b;">
+                          ou responda este e-mail para indicar o melhor horário.
+                        </td>
+                      </tr>
+                    </table>
+
+                    <p style="margin:30px 0 0 0; color:#394756;">
+                      Encaminho em anexo uma breve apresentação institucional e permaneço à disposição.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- SIGNATURE -->
+          <tr>
+            <td bgcolor="#0f1318" style="background-color:#0f1318; padding:44px 50px 48px 50px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                  <td valign="top" width="210" align="center" style="width:210px; padding-right:34px;">
+                    <img src="https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&amp;nmsgId=1776090080549144400&amp;f=1.png&amp;mode=inline&amp;cid=0.1730345560.8202600012067138933.19d8737e1a2__inline__img__src&amp;" alt="Esdra" width="164" style="display:block; width:164px; max-width:164px; height:auto; border:0; border-radius:30px; margin:0 auto 22px auto;">
+                    <img src="https://mail.zohousercontent.com/zm/ImageProxy?source=https%3A%2F%2Fpoliway.com.br%2Fwp-content%2Fuploads%2F2026%2F02%2Flogo_poliway-1-iso.png&amp;uid=897683033&amp;s=ee803e00730b5fcad7ca48422b95e632f981099e2ac52d8ea0684a9e8564eb08&amp;mode=mailview" alt="Poliway" width="172" style="display:block; width:172px; max-width:172px; height:auto; border:0; margin:0 auto;">
+                  </td>
+                  <td valign="middle" align="left" style="border-left:1px solid #303944; padding-left:34px;">
+                    <div style="font-size:13px; line-height:18px; color:#b9c2cc; font-weight:700; letter-spacing:1.2px; text-transform:uppercase; margin-bottom:10px;">
+                      Atenciosamente,
+                    </div>
+                    <div style="font-size:30px; line-height:36px; color:#ffffff; font-weight:750; letter-spacing:-0.5px; margin-bottom:4px;">
+                      Esdra
+                    </div>
+                    <div style="font-size:14px; line-height:22px; color:#c8d0d9; margin-bottom:22px;">
+                      Comercial | Poliway
+                    </div>
+
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+                      <tr>
+                        <td style="font-size:14px; line-height:28px; color:#ffffff; font-weight:700; padding-right:10px; white-space:nowrap;">Email</td>
+                        <td style="font-size:14px; line-height:28px; color:#dce6f1;">
+                          <a href="mailto:esdra@poliway.com.br" style="color:#dce6f1; text-decoration:none;">esdra@poliway.com.br</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="font-size:14px; line-height:28px; color:#ffffff; font-weight:700; padding-right:10px; white-space:nowrap;">WhatsApp</td>
+                        <td style="font-size:14px; line-height:28px; color:#dce6f1;">
+                          <a href="https://wa.me/5531981095112" target="_blank" style="color:#dce6f1; text-decoration:none;">+55 31 98109-5112</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="font-size:14px; line-height:28px; color:#ffffff; font-weight:700; padding-right:10px; white-space:nowrap;">Telefones</td>
+                        <td style="font-size:14px; line-height:28px; color:#dce6f1;">+55 (31) 3621-3127 | +55 (31) 3621-1275</td>
+                      </tr>
+                      <tr>
+                        <td style="font-size:14px; line-height:28px; color:#ffffff; font-weight:700; padding-right:10px; white-space:nowrap;">Endereço</td>
+                        <td style="font-size:14px; line-height:28px; color:#dce6f1;">R. João Pinheiro, 338 - Dos Ipês, Vespasiano - MG</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- FOOTER -->
+          <tr>
+            <td style="padding:22px 42px 26px 42px; background-color:#ffffff; border-top:1px solid #e6ebf0;">
+              <div style="font-size:11px; line-height:18px; color:#8a96a3; text-align:center;">
+                Poliway Indústria e Comércio de Máquinas e Equipamentos Industriais Ltda. Este e-mail foi enviado com finalidade institucional e comercial.
+              </div>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
