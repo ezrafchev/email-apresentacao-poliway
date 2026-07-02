@@ -1,0 +1,195 @@
+<!doctype html>
+<!--
+POLIWAY | VERSÃO WEB / GITHUB PAGES
+Esta versão é otimizada para navegador e usa animação CSS com transform: translate3d(),
+que roda no compositor gráfico do navegador e tende a acompanhar monitores de 60Hz.
+Para Zoho/e-mail, use email_poliway_zoho_completo_github.html.
+-->
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Poliway | Apresentação institucional</title>
+  <style>
+    :root {
+      --bg:#eef2f5;
+      --panel:#ffffff;
+      --ink:#111827;
+      --muted:#5f6b7a;
+      --line:#dfe6ee;
+      --dark:#0e141b;
+      --dark2:#111927;
+      --soft:#f7f9fb;
+    }
+    * { box-sizing:border-box; }
+    body {
+      margin:0;
+      background:radial-gradient(circle at top,#f7fafc 0,var(--bg) 45%,#e6ecf2 100%);
+      color:var(--ink);
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      -webkit-font-smoothing:antialiased;
+      text-rendering:optimizeLegibility;
+    }
+    .page { padding:42px 14px 64px; }
+    .shell {
+      width:min(760px,100%);
+      margin:0 auto;
+      background:var(--panel);
+      border:1px solid #dbe3eb;
+      border-radius:34px;
+      overflow:hidden;
+      box-shadow:0 24px 70px rgba(15,23,42,.13);
+    }
+    .hero {
+      background:linear-gradient(145deg,#0b1117 0%,#111927 58%,#0e141b 100%);
+      color:white;
+      text-align:center;
+      padding:62px 44px 56px;
+      border-top:1px solid #2f3947;
+    }
+    .brand { width:286px; max-width:82%; height:auto; display:block; margin:0 auto 30px; }
+    .pill {
+      display:inline-block;
+      border:1px solid #3d4858;
+      border-radius:999px;
+      padding:10px 18px;
+      font-size:12px;
+      line-height:16px;
+      letter-spacing:1.8px;
+      text-transform:uppercase;
+      color:#d7dee8;
+      font-weight:800;
+    }
+    h1 {
+      margin:28px auto 0;
+      max-width:640px;
+      font-size:35px;
+      line-height:1.23;
+      letter-spacing:-.9px;
+    }
+    .lead { max-width:575px; margin:16px auto 0; color:#b9c4cf; font-size:15px; line-height:26px; }
+    .content { padding:46px 50px 44px; font-size:17px; line-height:31px; color:#273545; }
+    .content h2 { margin:0 0 24px; font-size:22px; line-height:32px; color:#111827; letter-spacing:-.35px; }
+    .content p { margin:0 0 18px; }
+    .cards { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin-top:30px; }
+    .card { background:#f7f9fb; border:1px solid #e2e8f0; border-radius:22px; padding:22px 18px; box-shadow:0 8px 22px rgba(15,23,42,.04); }
+    .num { font-size:12px; line-height:18px; color:#6b7280; font-weight:800; letter-spacing:1px; text-transform:uppercase; margin-bottom:9px; }
+    .card-title { font-size:16px; line-height:22px; color:#111827; font-weight:800; margin-bottom:8px; }
+    .card-text { font-size:13px; line-height:21px; color:#526170; }
+    .logo-panel { margin-top:30px; background:#0e141b; border:1px solid #222b36; border-radius:26px; padding:28px 30px 30px; box-shadow:0 16px 38px rgba(15,23,42,.12); overflow:hidden; }
+    .eyebrow { font-size:12px; line-height:18px; color:#aeb8c3; font-weight:800; letter-spacing:1.4px; text-transform:uppercase; margin-bottom:16px; }
+    .marquee { background:#f8fafc; border:1px solid #dfe7f0; border-radius:22px; padding:8px; overflow:hidden; }
+    .marquee-viewport { overflow:hidden; border-radius:18px; transform:translateZ(0); }
+    .marquee-track {
+      display:flex;
+      width:max-content;
+      will-change:transform;
+      transform:translate3d(0,0,0);
+      animation:pw-marquee 18s linear infinite;
+    }
+    .marquee-track img { display:block; width:1280px; height:178px; max-width:none; flex:0 0 auto; backface-visibility:hidden; image-rendering:auto; }
+    @keyframes pw-marquee {
+      from { transform:translate3d(0,0,0); }
+      to { transform:translate3d(-1280px,0,0); }
+    }
+    .caption { font-size:11px; line-height:18px; color:#7f8b99; margin-top:12px; }
+    .cta-area { margin-top:34px; padding-top:30px; border-top:1px solid #e6ebf0; display:flex; align-items:center; gap:18px; flex-wrap:wrap; }
+    .button { display:inline-block; padding:15px 26px; background:#111827; color:#fff; border-radius:999px; text-decoration:none; font-weight:800; font-size:15px; line-height:20px; box-shadow:0 12px 24px rgba(17,24,39,.18); }
+    .cta-note { font-size:14px; line-height:22px; color:#64748b; }
+    .signature { background:#0e141b; color:white; padding:44px 50px 48px; display:grid; grid-template-columns:210px 1fr; gap:34px; }
+    .sig-left { text-align:center; }
+    .photo { display:block; width:164px; height:auto; border-radius:30px; margin:0 auto 22px; box-shadow:0 16px 38px rgba(0,0,0,.2); }
+    .sig-logo { width:172px; height:auto; display:block; margin:0 auto; }
+    .sig-right { border-left:1px solid #303944; padding-left:34px; align-self:center; }
+    .sig-pre { color:#b9c2cc; font-weight:800; font-size:13px; line-height:18px; letter-spacing:1.2px; text-transform:uppercase; margin-bottom:10px; }
+    .name { font-size:30px; line-height:36px; color:#fff; font-weight:800; letter-spacing:-.5px; margin-bottom:4px; }
+    .role { font-size:14px; line-height:22px; color:#c8d0d9; margin-bottom:22px; }
+    .info { display:grid; grid-template-columns:auto 1fr; gap:0 10px; color:#dce6f1; font-size:14px; line-height:28px; }
+    .info strong { color:#fff; }
+    .info a { color:#dce6f1; text-decoration:none; }
+    .footer { padding:22px 42px 26px; background:#fff; border-top:1px solid #e6ebf0; color:#8a96a3; text-align:center; font-size:11px; line-height:18px; }
+    @media (max-width:620px) {
+      .page { padding:0; }
+      .shell { border-radius:0; }
+      .hero,.content,.signature { padding-left:24px; padding-right:24px; }
+      h1 { font-size:28px; line-height:36px; }
+      .cards { grid-template-columns:1fr; }
+      .signature { grid-template-columns:1fr; }
+      .sig-right { border-left:0; border-top:1px solid #303944; padding-left:0; padding-top:26px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <article class="shell">
+      <section class="hero">
+        <img class="brand" src="https://poliway.com.br/wp-content/uploads/2026/02/logo_poliway-1-iso.png" alt="Poliway">
+        <div class="pill">Apresentação institucional</div>
+        <h1>Soluções industriais sob medida para operações de alta exigência.</h1>
+        <p class="lead">Equipamentos para correias transportadoras desenvolvidos para produtividade, segurança operacional, confiabilidade e continuidade de processo.</p>
+      </section>
+
+      <section class="content">
+        <h2>Prezado(a), boa tarde.</h2>
+        <p>Meu nome é <strong>Esdra</strong> e atuo na área <strong>Comercial</strong> da <strong>Poliway</strong>.</p>
+        <p>A Poliway desenvolve e fornece equipamentos para <strong>correias transportadoras</strong>, com soluções personalizadas conforme a necessidade técnica e operacional de cada cliente.</p>
+        <p>Atendemos empresas no Brasil e no exterior, incluindo operações dos segmentos de mineração, siderurgia, celulose, cimento e indústria pesada.</p>
+        <p>Gostaria de verificar a possibilidade de agendarmos uma breve reunião, online ou presencial, para apresentar a Poliway, nossos equipamentos e possíveis oportunidades de atendimento à sua operação.</p>
+
+        <div class="cards">
+          <div class="card"><div class="num">01</div><div class="card-title">Projeto sob medida</div><div class="card-text">Soluções dimensionadas conforme aplicação, ambiente e necessidade do cliente.</div></div>
+          <div class="card"><div class="num">02</div><div class="card-title">Aplicação industrial</div><div class="card-text">Equipamentos voltados à confiabilidade, manutenção e operação contínua.</div></div>
+          <div class="card"><div class="num">03</div><div class="card-title">Atendimento técnico</div><div class="card-text">Apoio comercial e técnico para especificação, cotação e fornecimento.</div></div>
+        </div>
+
+        <section class="logo-panel" aria-label="Empresas atendidas">
+          <div class="eyebrow">Empresas atendidas</div>
+          <div class="marquee">
+            <div class="marquee-viewport">
+              <div class="marquee-track">
+                <img src="logos_clientes_poliway_static.png" alt="Logos de empresas atendidas pela Poliway">
+                <img src="logos_clientes_poliway_static.png" alt="" aria-hidden="true">
+              </div>
+            </div>
+          </div>
+          <div class="caption">Animação web em CSS com transform/translate3d, preparada para fluidez visual em monitores de 60Hz.</div>
+          <div class="eyebrow" style="margin-top:22px;">Teste direto do GIF animado</div>
+          <div class="marquee">
+            <div class="marquee-viewport">
+              <img src="logos_clientes_poliway_marquee_zoho_v2.gif" alt="GIF animado das logos da Poliway" style="display:block;width:100%;height:auto;border-radius:18px;">
+            </div>
+          </div>
+          <div class="caption">Se esta segunda faixa se mexer ao abrir o arquivo, o GIF está correto. Para o Zoho, é obrigatório subir este GIF no GitHub público com o mesmo nome.</div>
+        </section>
+
+        <div class="cta-area">
+          <a class="button" href="mailto:esdra@poliway.com.br?subject=Agendamento%20de%20apresenta%C3%A7%C3%A3o%20institucional%20-%20Poliway">Agendar apresentação</a>
+          <span class="cta-note">ou responda este e-mail para indicar o melhor horário.</span>
+        </div>
+
+        <p style="margin-top:30px;color:#394756;">Encaminho em anexo uma breve apresentação institucional e permaneço à disposição.</p>
+      </section>
+
+      <section class="signature">
+        <div class="sig-left">
+          <img class="photo" src="https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&amp;nmsgId=1783012808612144500&amp;f=2.png&amp;mode=inline&amp;cid=0.1730345560.8202600012067138933.19d8737e1a2__inline__img__src&amp;" alt="Esdra">
+          <img class="sig-logo" src="https://poliway.com.br/wp-content/uploads/2026/02/logo_poliway-1-iso.png" alt="Poliway">
+        </div>
+        <div class="sig-right">
+          <div class="sig-pre">Atenciosamente,</div>
+          <div class="name">Esdra</div>
+          <div class="role">Comercial | Poliway</div>
+          <div class="info">
+            <strong>Email</strong><a href="mailto:esdra@poliway.com.br">esdra@poliway.com.br</a>
+            <strong>WhatsApp</strong><a href="https://wa.me/5531981095112">+55 31 98109-5112</a>
+            <strong>Telefones</strong><span>+55 (31) 3621-3127 | +55 (31) 3621-1275</span>
+            <strong>Endereço</strong><span>R. João Pinheiro, 338 - Dos Ipês, Vespasiano - MG</span>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer">Poliway Indústria e Comércio de Máquinas e Equipamentos Industriais Ltda. Este e-mail foi enviado com finalidade institucional e comercial.</footer>
+    </article>
+  </main>
+</body>
+</html>

@@ -1,0 +1,23 @@
+CORREÇÃO V5 — SOMENTE CAMINHO DA FOTO
+
+Foi usado como base o pacote novo/corrigido das logos animadas, preservando o design premium e a estrutura nova.
+
+A única alteração aplicada nos HTMLs foi o SRC da imagem da assinatura com alt="Esdra".
+
+Caminho aplicado na foto:
+https://us4-zmud.zoho.com/zm/ImageDisplay?na=7573564000000008002&nmsgId=1783012808612144500&f=2.png&mode=inline&cid=0.1730345560.8202600012067138933.19d8737e1a2__inline__img__src&
+
+Arquivos HTML/TXT atualizados:
+- email_poliway_zoho_completo_github.html: 1 ocorrência(s)
+- email_poliway_zoho_completo_github_codigo.txt: 1 ocorrência(s)
+- TESTE_LOCAL_email_com_gif_animado.html: 1 ocorrência(s)
+- index.html: 1 ocorrência(s)
+
+Não foi copiado o HTML antigo inteiro. O HTML antigo serviu apenas para extrair o caminho correto da foto.
+
+Para testar no Zoho:
+1. Abra email_poliway_zoho_completo_github.html no navegador.
+2. Selecione tudo com Ctrl + A.
+3. Copie com Ctrl + C.
+4. Cole em um novo modelo no Zoho Mail.
+5. Envie um teste real. O editor do Zoho pode mostrar imagens de forma diferente do e-mail recebido.

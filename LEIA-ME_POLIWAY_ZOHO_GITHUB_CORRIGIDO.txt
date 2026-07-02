@@ -1,0 +1,96 @@
+POLIWAY — PACOTE CORRIGIDO V2 | LOGOS ANIMADAS
+
+Senhor, este pacote corrige o problema das logos paradas.
+
+O QUE FOI ALTERADO
+
+1) O GIF animado recebeu um nome novo:
+   logos_clientes_poliway_marquee_zoho_v2.gif
+
+   Motivo: quando o arquivo antigo tem o mesmo nome, o navegador, o Zoho ou o GitHub podem continuar entregando uma versão antiga parada em cache.
+
+2) O HTML de e-mail agora aponta para:
+   https://raw.githubusercontent.com/ezrafchev/email-apresentacao-poliway/main/logos_clientes_poliway_marquee_zoho_v2.gif?v=20260702-02
+
+3) Mantive também uma cópia com o nome antigo:
+   logos_clientes_poliway_marquee.gif
+
+   Assim, caso algum arquivo antigo ainda chame esse nome, ele também será animado.
+
+4) O pacote possui um teste local direto:
+   TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
+
+   Abra esse arquivo primeiro. Se a faixa mexer nele, o GIF está funcionando.
+
+ARQUIVOS PRINCIPAIS
+
+- index.html
+  Versão para GitHub Pages/navegador. Tem animação CSS fluida e também teste direto do GIF.
+
+- email_poliway_zoho_completo_github.html
+  Versão para abrir, copiar e colar no Zoho Mail. Essa versão usa o link do GitHub RAW.
+
+- email_poliway_zoho_completo_github_codigo.txt
+  Mesmo HTML em TXT.
+
+- TESTE_LOCAL_email_com_gif_animado.html
+  Versão de teste local do e-mail usando o GIF da própria pasta.
+
+- TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
+  Teste direto para confirmar que o GIF está animado.
+
+- logos_clientes_poliway_marquee_zoho_v2.gif
+  GIF novo animado, com 360 quadros, 20ms por quadro e loop infinito.
+
+- logos_clientes_poliway_marquee.gif
+  Cópia compatível com o nome antigo.
+
+- logos_clientes_poliway_static.png
+  Imagem estática de reserva.
+
+PASSO A PASSO CERTO PARA O ZOHO
+
+1) Extraia esta pasta ZIP no seu computador.
+
+2) Abra o arquivo:
+   TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
+
+3) Confirme que as logos estão se movendo.
+
+4) Entre no GitHub:
+   https://github.com/ezrafchev/email-apresentacao-poliway/upload
+
+5) Envie para a RAIZ do repositório estes arquivos:
+   - index.html
+   - email_poliway_zoho_completo_github.html
+   - email_poliway_zoho_completo_github_codigo.txt
+   - logos_clientes_poliway_marquee_zoho_v2.gif
+   - logos_clientes_poliway_marquee.gif
+   - logos_clientes_poliway_static.png
+
+6) Faça o commit.
+
+7) O repositório precisa estar PÚBLICO.
+   Se estiver privado, o Zoho e os destinatários não conseguirão carregar o GIF.
+
+8) Abra este link em guia anônima:
+   https://raw.githubusercontent.com/ezrafchev/email-apresentacao-poliway/main/logos_clientes_poliway_marquee_zoho_v2.gif?v=20260702-02
+
+9) Se o GIF abrir e se mover na guia anônima, o caminho está correto.
+
+10) Abra:
+    email_poliway_zoho_completo_github.html
+
+11) Pressione Ctrl + A e Ctrl + C.
+
+12) Cole no Zoho Mail.
+
+13) Envie um teste real para outro e-mail.
+
+IMPORTANTE
+
+- O editor do Zoho pode mostrar o GIF parado durante a edição. O teste correto é enviar o e-mail e abrir a mensagem recebida.
+- Outlook desktop costuma ser mais limitado com GIF; Gmail, Zoho Web e celular tendem a funcionar melhor.
+- Em e-mail não existe garantia real de 60Hz como em site. Por isso, o pacote usa duas soluções:
+  1) Web/GitHub: CSS com transform/translate3d, preparado para fluidez visual.
+  2) E-mail/Zoho: GIF animado real, que é o método mais compatível.
