@@ -1,0 +1,12 @@
+
+ATUALIZAÇÃO V12 — LOGO INICIAL SEM A FRASE
+
+O QUE FOI AJUSTADO:
+1) A frase "revendedor autorizado ASGCO" foi removida da logo no início da página.
+2) O topo agora usa o arquivo local:
+   logo_poliway_sem_frase_v12.png
+3) O restante da estrutura foi mantido:
+   - HTML novo
+   - foto correta no rodapé
+   - logos dos clientes com animação premium da versão anterior
+4) A logo do rodapé não foi alterada, pois o pedido foi apenas para a logo do início da página.
