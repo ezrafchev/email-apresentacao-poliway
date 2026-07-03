@@ -1,0 +1,27 @@
+ATUALIZAÇÃO V14 — LOGO OFICIAL DA POLIWAY
+
+CORREÇÃO APLICADA:
+1) A logo criada anteriormente foi removida.
+2) A logo oficial enviada pelo usuário foi aplicada no topo.
+3) O fundo preto externo foi tratado para integrar melhor ao cabeçalho escuro.
+4) O nome POLIWAY foi preservado.
+5) A frase indesejada foi removida porque o topo agora usa a marca oficial enviada.
+6) A animação premium das logos dos clientes foi mantida.
+7) A foto correta do rodapé foi mantida.
+
+ARQUIVOS DE LOGO:
+- logo_poliway_oficial_topo_v14.png
+  Logo oficial completa para o topo.
+
+- logo_poliway_oficial_marca_v14.png
+  Versão da marca Poliway para uso menor no rodapé.
+
+IMPORTANTE PARA O ZOHO:
+Ao subir no GitHub, envie também estes arquivos para a raiz do repositório:
+- logo_poliway_oficial_topo_v14.png
+- logo_poliway_oficial_marca_v14.png
+- logos_clientes_poliway_todos_clientes_marquee_v11.gif
+
+O HTML de e-mail já aponta para:
+https://raw.githubusercontent.com/ezrafchev/email-apresentacao-poliway/main/logo_poliway_oficial_topo_v14.png?v=20260703-14
+https://raw.githubusercontent.com/ezrafchev/email-apresentacao-poliway/main/logo_poliway_oficial_marca_v14.png?v=20260703-14
