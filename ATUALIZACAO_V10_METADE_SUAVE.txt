@@ -1,0 +1,19 @@
+
+ATUALIZAÇÃO V10 — METADE DA VELOCIDADE, PORÉM MAIS FLUIDA
+
+O QUE FOI AJUSTADO:
+1) A velocidade continua em metade da velocidade da V8.
+2) O GIF foi reconstruído com mais quadros para reduzir mini/micro travamentos.
+3) Em vez de apenas aumentar a duração dos quadros, esta versão usa mais frames para manter a mesma duração total com movimento mais suave.
+4) A versão web em CSS continua com rolagem suave em 84 segundos por ciclo.
+5) O HTML novo e o caminho da foto no rodapé foram preservados.
+
+CONFIGURAÇÃO TÉCNICA:
+- V9: 120 quadros com duração maior.
+- V10: 240 quadros, mantendo a duração total do loop em 14,4 segundos.
+- Resultado: mesma velocidade percebida da V9, porém com transição mais suave.
+
+ARQUIVOS PRINCIPAIS:
+- email_poliway_zoho_completo_github.html
+- index.html
+- logos_clientes_poliway_todos_clientes_marquee_v10.gif

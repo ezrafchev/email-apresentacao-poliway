@@ -1,3 +1,4 @@
+ATUALIZACAO_V10_METADE_SUAVE.txt
 ATUALIZACAO_V7_LOGOS_ANIMADAS_HD.txt
 ATUALIZACAO_V8_VELOCIDADE_REDUZIDA.txt
 ATUALIZACAO_V9_METADE_DA_VELOCIDADE.txt
@@ -11,6 +12,7 @@ logos_clientes_poliway_marquee.gif
 logos_clientes_poliway_marquee_zoho_v2.gif
 logos_clientes_poliway_static.png
 logos_clientes_poliway_todos_clientes_grid_v6.png
+logos_clientes_poliway_todos_clientes_marquee_v10.gif
 logos_clientes_poliway_todos_clientes_marquee_v6.gif
 logos_clientes_poliway_todos_clientes_marquee_v8.gif
 logos_clientes_poliway_todos_clientes_marquee_v9.gif
