@@ -1,0 +1,17 @@
+
+ATUALIZAÇÃO V11 — PREMIUM FLUIDO E ALTA DEFINIÇÃO
+
+CORREÇÕES APLICADAS:
+1) A velocidade foi refinada para um padrão premium mais lento e confortável.
+2) O GIF do e-mail foi reconstruído em alta definição, renderizado em 2x, para ficar mais nítido ao ser exibido em 620px.
+3) O GIF agora usa mais quadros (360) para reduzir os mini/micro travamentos do rolamento.
+4) A versão web em CSS foi corrigida estruturalmente:
+   - a faixa agora usa a largura real do strip em vez de uma largura antiga incorreta;
+   - o deslocamento do keyframe foi recalculado para casar exatamente com a imagem;
+   - a duração foi ajustada para 120 segundos por ciclo.
+5) O HTML novo e a foto do rodapé permaneceram preservados.
+
+CONFIGURAÇÃO TÉCNICA PRINCIPAL:
+- E-mail: logos_clientes_poliway_todos_clientes_marquee_v11.gif
+- Web: deslocamento CSS exato de 4571px em 120s por ciclo.
+- Objetivo: máxima fluidez perceptiva e qualidade premium.
