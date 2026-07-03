@@ -1,0 +1,32 @@
+PASSO A PASSO — POLIWAY | PACOTE V6 COM TODAS AS LOGOS DOS CLIENTES
+
+O QUE FOI CORRIGIDO NESTA VERSÃO:
+1) A grade de logos foi reconstruída a partir da referência enviada pelo usuário.
+2) Todas as logos foram incluídas.
+3) O espaçamento foi padronizado para evitar colisões, incluindo a correção da proximidade entre SIGMA e USIMINAS.
+4) O HTML novo foi mantido. Somente os arquivos de logos e os caminhos correspondentes foram atualizados.
+5) A foto do rodapé permaneceu com o caminho correto do Zoho já ajustado na versão anterior.
+
+ARQUIVOS PRINCIPAIS:
+- email_poliway_zoho_completo_github.html  -> versão para Zoho Mail.
+- email_poliway_zoho_completo_github_codigo.txt -> o mesmo HTML em TXT.
+- index.html -> versão web/GitHub com animação fluida em CSS.
+- logos_clientes_poliway_todos_clientes_grid_v6.png -> grade completa com todas as logos, pronta para e-mail.
+- logos_clientes_poliway_todos_clientes_strip_v6.png -> faixa única com todas as logos, usada na animação web.
+- logos_clientes_poliway_todos_clientes_marquee_v6.gif -> GIF compatível para testes e uso complementar.
+
+COMO USAR:
+1. Faça upload para a raiz do GitHub público destes arquivos:
+   - index.html
+   - email_poliway_zoho_completo_github.html
+   - logos_clientes_poliway_todos_clientes_grid_v6.png
+   - logos_clientes_poliway_todos_clientes_strip_v6.png
+   - logos_clientes_poliway_todos_clientes_marquee_v6.gif
+2. Se quiser manter compatibilidade com nomes antigos, o pacote também já inclui:
+   - logos_clientes_poliway_static.png
+   - logos_clientes_poliway_marquee.gif
+   - logos_clientes_poliway_marquee_zoho_v2.gif
+3. Abra email_poliway_zoho_completo_github.html no navegador.
+4. Copie todo o conteúdo e cole no template do Zoho Mail.
+5. No e-mail principal, a seção de clientes usa a grade estática completa, que é a opção mais confiável para todos os destinatários.
+6. Na versão web (index.html), a faixa de logos se move suavemente em CSS e também mostra a grade completa abaixo.

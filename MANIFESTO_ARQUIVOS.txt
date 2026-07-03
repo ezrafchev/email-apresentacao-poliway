@@ -1,16 +1,15 @@
-MANIFESTO — POLIWAY PREMIUM 60HZ V5 — SOMENTE CAMINHO DA FOTO
-
-Arquivos principais:
-- email_poliway_zoho_completo_github.html
-- email_poliway_zoho_completo_github_codigo.txt
-- index.html
-- TESTE_LOCAL_email_com_gif_animado.html
-- TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
-- logos_clientes_poliway_marquee_zoho_v2.gif
-- logos_clientes_poliway_marquee.gif
-- logos_clientes_poliway_static.png
-- LEIA-ME_POLIWAY_ZOHO_GITHUB_CORRIGIDO.txt
-- CORRECAO_V5_SOMENTE_CAMINHO_DA_FOTO.txt
-
-Base preservada: pacote novo com logos animadas corrigidas.
-Alteração específica: somente o caminho da foto da assinatura alt="Esdra".
+CORRECAO_V5_SOMENTE_CAMINHO_DA_FOTO.txt
+LEIA-ME_POLIWAY_ZOHO_GITHUB_CORRIGIDO.txt
+LEIA-ME_V6_TODAS_LOGOS.txt
+MANIFESTO_ARQUIVOS.txt
+TESTE_LOCAL_email_com_gif_animado.html
+TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
+email_poliway_zoho_completo_github.html
+email_poliway_zoho_completo_github_codigo.txt
+index.html
+logos_clientes_poliway_marquee.gif
+logos_clientes_poliway_marquee_zoho_v2.gif
+logos_clientes_poliway_static.png
+logos_clientes_poliway_todos_clientes_grid_v6.png
+logos_clientes_poliway_todos_clientes_marquee_v6.gif
+logos_clientes_poliway_todos_clientes_strip_v6.png
