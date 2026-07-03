@@ -1,0 +1,28 @@
+
+ATUALIZAÇÃO V7 — LOGOS ANIMADAS EM ALTA DEFINIÇÃO
+
+SOLICITAÇÕES APLICADAS:
+1) A frase abaixo foi removida do HTML:
+   "Grade completa com as logos dos clientes, reorganizadas com espaçamento correto e sem sobreposição para máxima compatibilidade no e-mail."
+2) A seção de logos do e-mail voltou a usar movimento, agora por meio do arquivo:
+   logos_clientes_poliway_todos_clientes_marquee_v6.gif
+3) O GIF usado no e-mail foi mantido em alta definição e com rolagem contínua.
+4) A versão web (index.html) continua com animação CSS suave e foi ajustada para maior fluidez.
+5) O caminho da foto do rodapé permanece preservado.
+
+ARQUIVOS MAIS IMPORTANTES:
+- email_poliway_zoho_completo_github.html
+- email_poliway_zoho_completo_github_codigo.txt
+- index.html
+- logos_clientes_poliway_todos_clientes_marquee_v6.gif
+- logos_clientes_poliway_todos_clientes_strip_v6.png
+
+COMO USAR:
+1. Envie para a raiz do repositório GitHub público:
+   - email_poliway_zoho_completo_github.html
+   - index.html
+   - logos_clientes_poliway_todos_clientes_marquee_v6.gif
+   - logos_clientes_poliway_todos_clientes_strip_v6.png
+2. Abra email_poliway_zoho_completo_github.html no navegador.
+3. Copie tudo e cole no template do Zoho.
+4. Faça um teste real enviando o e-mail, porque o editor do Zoho pode não animar durante a edição.

@@ -81,6 +81,9 @@ Para Zoho/e-mail, use email_poliway_zoho_completo_github.html.
     .marquee { background:#f8fafc; border:1px solid #dfe7f0; border-radius:22px; padding:8px; overflow:hidden; }
     .marquee-viewport { overflow:hidden; border-radius:18px; transform:translateZ(0); }
     .marquee-track {
+      will-change: transform;
+      backface-visibility: hidden;
+
       display:flex;
       width:max-content;
       will-change:transform;
@@ -162,7 +165,7 @@ Para Zoho/e-mail, use email_poliway_zoho_completo_github.html.
               <img src="logos_clientes_poliway_todos_clientes_marquee_v6.gif" alt="GIF animado das logos da Poliway" style="display:block;width:100%;height:auto;border-radius:18px;">
             </div>
           </div>
-          <div class="caption">Abaixo segue também o GIF compatível para testes rápidos. No e-mail principal, foi priorizada a grade estática com todas as logos visíveis para máxima compatibilidade.</div>
+          <div class="caption">Abaixo segue também o GIF compatível para testes rápidos.</div>
         </section>
 
         <div class="cta-area">
