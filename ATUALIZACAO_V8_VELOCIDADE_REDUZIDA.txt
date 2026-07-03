@@ -1,0 +1,14 @@
+
+ATUALIZAÇÃO V8 — VELOCIDADE REDUZIDA DAS LOGOS
+
+O QUE FOI AJUSTADO:
+1) A velocidade de rolagem foi reduzida para um padrão mais elegante e confortável.
+2) A versão do e-mail agora usa o arquivo:
+   logos_clientes_poliway_todos_clientes_marquee_v8.gif
+3) O GIF foi mantido em alta definição, porém com rolagem mais lenta.
+4) A versão web (index.html) também foi suavizada, com animação CSS mais lenta e contínua.
+5) O HTML novo foi mantido e o caminho da foto no rodapé permanece preservado.
+
+CONFIGURAÇÃO DE VELOCIDADE:
+- GIF do e-mail: duração dos quadros aumentada para desacelerar a rolagem.
+- Faixa web em CSS: animação alterada para 42 segundos por ciclo.
