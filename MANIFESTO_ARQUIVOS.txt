@@ -1,10 +1,12 @@
 ATUALIZACAO_V12_LOGO_SEM_FRASE.txt
+ATUALIZACAO_V13_LOGO_CORRIGIDA.txt
 MANIFESTO_ARQUIVOS.txt
 TESTE_LOCAL_email_com_gif_animado.html
 TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
 email_poliway_zoho_completo_github.html
 index.html
 logo_poliway_sem_frase_v12.png
+logo_poliway_sem_frase_v13.png
 logos_clientes_poliway_static.png
 logos_clientes_poliway_todos_clientes_grid_v6.png
 logos_clientes_poliway_todos_clientes_strip_v6.png

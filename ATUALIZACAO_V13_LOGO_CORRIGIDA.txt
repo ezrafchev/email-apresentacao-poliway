@@ -1,0 +1,18 @@
+
+ATUALIZAÇÃO V13 — LOGO DO TOPO CORRIGIDA
+
+CORREÇÃO APLICADA:
+1) A logo do topo foi refeita para manter o nome POLIWAY e remover apenas a frase inferior.
+2) O problema da imagem quebrada foi corrigido.
+3) O topo do e-mail agora aponta para um arquivo hospedável no GitHub:
+   https://raw.githubusercontent.com/ezrafchev/email-apresentacao-poliway/main/logo_poliway_sem_frase_v13.png?v=20260703-13
+4) O restante foi mantido:
+   - foto correta no rodapé
+   - animação premium das logos dos clientes
+   - HTML novo
+
+ARQUIVO DA LOGO:
+- logo_poliway_sem_frase_v13.png
+
+IMPORTANTE:
+Ao subir o pacote no GitHub, envie também o arquivo logo_poliway_sem_frase_v13.png para a raiz do repositório.
