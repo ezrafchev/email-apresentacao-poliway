@@ -1,5 +1,6 @@
 ATUALIZACAO_V7_LOGOS_ANIMADAS_HD.txt
 ATUALIZACAO_V8_VELOCIDADE_REDUZIDA.txt
+ATUALIZACAO_V9_METADE_DA_VELOCIDADE.txt
 MANIFESTO_ARQUIVOS.txt
 TESTE_LOCAL_email_com_gif_animado.html
 TESTE_RAPIDO_ABRIR_NO_NAVEGADOR.html
@@ -12,4 +13,5 @@ logos_clientes_poliway_static.png
 logos_clientes_poliway_todos_clientes_grid_v6.png
 logos_clientes_poliway_todos_clientes_marquee_v6.gif
 logos_clientes_poliway_todos_clientes_marquee_v8.gif
+logos_clientes_poliway_todos_clientes_marquee_v9.gif
 logos_clientes_poliway_todos_clientes_strip_v6.png

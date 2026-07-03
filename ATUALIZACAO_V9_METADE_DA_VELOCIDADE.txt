@@ -1,0 +1,14 @@
+
+ATUALIZAÇÃO V9 — METADE DA VELOCIDADE
+
+AJUSTE APLICADO:
+- A velocidade foi reduzida pela metade em relação à versão V8.
+
+CONFIGURAÇÃO:
+- GIF do e-mail: quadros desacelerados para metade da velocidade anterior.
+- Versão web em CSS: animação alterada de 42s para 84s por ciclo.
+
+ARQUIVOS PRINCIPAIS:
+- email_poliway_zoho_completo_github.html
+- index.html
+- logos_clientes_poliway_todos_clientes_marquee_v9.gif
